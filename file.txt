@@ -1,0 +1,5 @@
+Hi 
+Git Operations are using to create a file
+Adding a file and Comminting the changes
+Push the file into the remote repository
+
